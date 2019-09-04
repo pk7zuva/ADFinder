@@ -1,4 +1,4 @@
-#ADFinder
+####ADFinder
 This script identify adaptor sequence as well as any 5' or 3' index sequence in a given small RNA sequencing fastq file.
 
 Result interpretation:
